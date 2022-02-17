@@ -1,5 +1,5 @@
 Full credentials to:
-mrlaki5 -> backgammon
+MrLaki5 -> backgammon
 dipanshkhandelwal -> chess
 kostasdrakonakis -> flappy bird
 
